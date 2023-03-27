@@ -1,4 +1,4 @@
-id,title,link,language,file-location,difficulty,date
+#,Title,Link,Language,File Location,Difficulty,Date
 704,Binary Search,https://leetcode.com/problems/binary-search/,Python,./python/0704.binary-search.py,Easy,03-24-2023
 977,Squares of a Sorted Array,https://leetcode.com/problems/squares-of-a-sorted-array/,Python,./python/0977.squares-of-a-sorted-array.py,Easy,03-24-2023
 278,First Bad Version,https://leetcode.com/problems/first-bad-version/,Python,./python/0278.first-bad-version.py,Easy,03-24-2023
